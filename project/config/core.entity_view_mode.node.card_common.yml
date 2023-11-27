@@ -1,0 +1,12 @@
+uuid: f1840dc0-a241-487b-9c72-5235cec49614
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+_core:
+  default_config_hash: nmGf3ZkxTWp1HmkQ7iq2M6uv-NUOu0hjXE4UNMY0MKk
+id: node.card_common
+label: 'Card common'
+targetEntityType: node
+cache: true
